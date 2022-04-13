@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Burgers",
+    "products": [1, 2, 3]
+  },
+  {
+    "id": 2,
+    "name": "Twisters",
+    "products": [1, 2, 3]
+  },
+  {
+    "id": 3,
+    "name": "Chicken",
+    "products": [1, 2, 3]
+  },
+  {
+    "id": 4,
+    "name": "Baskets",
+    "products": [1, 2, 3]
+  },
+  {
+    "id": 5,
+    "name": "Snacks",
+    "products": [1, 2, 3]
+  },
+  {
+    "id": 6,
+    "name": "Souses",
+    "products": [1, 2, 3]
+  },
+  {
+    "id": 7,
+    "name": "Drinks",
+    "products": [1, 2, 3]
+  },
+  {
+    "id": 8,
+    "name": "Coffee-tea",
+    "products": [1, 2, 3]
+  },
+  {
+    "id": 9,
+    "name": "Deserts",
+    "products": [1, 2, 3]
+  },
+  {
+    "id": 10,
+    "name": "Hits",
+    "products": [1, 2, 3]
+  }
+]
