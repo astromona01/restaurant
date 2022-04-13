@@ -15,7 +15,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `node src/server`
-Run the server\
+Runs the server\
 Server will start on [http://localhost:5000](http://localhost:5000) and you can see message in console
 
 ### `npm test`
